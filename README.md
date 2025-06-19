@@ -7,8 +7,8 @@ In this course, students gained hands-on experience with system-level programmin
 - File I/O and system calls (`open`, `read`, `write`, `close`, `stat`, etc.)
 - Process creation and management using `fork`, `exec`, `wait`, and `exit`
 - Terminal-based interface development using the `ncurses` library
-- Shell programming concepts including command parsing, I/O redirection, environment variables, and writing a basic shell interpreter
-- Multithreaded programming and synchronization with POSIX threads (`pthread_create`, mutexes, condition variables)
+- Shell programming concepts, including command-line parsing, I/O redirection, environment variables, background job execution, and building a basic shell interpreter from scratch. 
+- Multithreaded programming and synchronization with POSIX threads
 - Inter-process communication using pipes and sockets
 
 As a final team project, students were challenged to design and implement practical applications that integrate these systems programming concepts in a cohesive and creative way.
@@ -28,6 +28,7 @@ As a final team project, students were challenged to design and implement practi
 - This repository is intended for educational and reference purposes only.
 
 For inquiries, please contact the course instructor:  
+  
 **Prof. Myeonggyun Han**  
 School of Computer Science and Engineering, College of IT  
 Kyungpook National University (KNU)  
