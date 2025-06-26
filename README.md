@@ -71,7 +71,7 @@ As a final team project, students were challenged to design and implement practi
 - **Team 21:** [T-Box: Terminal box](https://github.com/softkleenex/project_21_-main/tree/main)  
   T-Box is a multithreaded platform for playing Tic-Tac-Toe in real time between two terminals.
 
-- **Team 22:** [Team Project 22](https://github.com/donggwonY/SystemProgramming_TeamProject_22)  
+- **Team 22:** [Gomoku Game](https://github.com/donggwonY/SystemProgramming_TeamProject_22)  
   A client-server Gomoku game project implemented in C using POSIX threads.
 
 ---
