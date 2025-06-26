@@ -17,9 +17,6 @@ As a final team project, students were challenged to design and implement practi
 
 ## 🚀 Team Projects
 
-
-## 🚀 Team Projects
-
 - **Team 1:** [TUI 기반 멀티플레이 체스 게임](https://github.com/SysProgCompArch/multiplay-chess)  
   A terminal-based multiplayer chess game supporting real-time play and networking.
 
